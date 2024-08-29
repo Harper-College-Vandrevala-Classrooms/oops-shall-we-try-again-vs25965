@@ -9,7 +9,7 @@ public class tryagain {
 	   Scanner in = new Scanner(System.in);
 	   Scanner on = new Scanner(System.in);
 
-	   System.out.print("Welcome to the Oops! Shall We Try Again? Lab");
+	   System.out.print("Welcome to the Oops! Shall We Try Again? Lab\nThis program will work with int values");
 	   System.out.print("\nEnter a upper bounce: ");
 	   int upperb = in.nextInt();
 	   System.out.print("Enter a lower bounce: ");
